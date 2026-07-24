@@ -6,4 +6,4 @@ The format of me posting things here is kinda wonky, im new to linux as well as 
 - Black Glass
 - Undertunes
 - Pixelitos icon theme
- Everything else was either edited by moi or found elsewhere
+* Everything else was either edited by moi or found elsewhere
