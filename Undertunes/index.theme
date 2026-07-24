@@ -1,0 +1,9 @@
+[Sound Theme]
+Name=Undertale
+Name[zh_CN]=Undertale 情報
+Directories=stereo
+Comment=sound effects from Undertale
+Example=theme-demo
+
+[stereo]
+OutputProfile=stereo
