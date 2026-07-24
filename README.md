@@ -7,3 +7,6 @@ The format of me posting things here is kinda wonky, im new to linux as well as 
 - Undertunes
 - Pixelitos icon theme
 * Everything else was either edited by moi or found elsewhere
+
+# Installing
+Lowkey im kinda a dumbass so like i forget how i installed the stuff from internet but i think like you can compress as something and use get from file thingamabobber on kde settings app thing. You got this guys i believe in you, it cant be that hard if i figured it out
