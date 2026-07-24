@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420.5"
+   height="288.5"
+   viewBox="0 0 420.5 288.50001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="clock.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="3.7273288"
+     inkscape:cx="192.89954"
+     inkscape:cy="116.57142"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0.5"
+       originy="0.5"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="143.5,160.00001"
+       orientation="0,-1"
+       id="guide121"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="309.50001,153.00001"
+       orientation="1,0"
+       id="guide122"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="356.50001,153.00001"
+       orientation="1,0"
+       id="guide61"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="310.50001,152.00001"
+       orientation="0,-1"
+       id="guide65"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.5,0.5)">
+    <g
+       id="HourHand">
+      <rect
+         style="opacity:0.44;fill:none;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+         id="rect65"
+         width="28"
+         height="160"
+         x="342"
+         y="127.99999" />
+      <rect
+         style="opacity:0.9;fill:#808080;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+         id="rect64"
+         width="8"
+         height="108.60606"
+         x="352"
+         y="144"
+         ry="4" />
+    </g>
+    <g
+       id="MinuteHand">
+      <rect
+         style="opacity:0.44;fill:none;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+         id="rect63"
+         width="28"
+         height="160"
+         x="295"
+         y="127.99999" />
+      <rect
+         style="opacity:0.3;fill:#999999;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+         id="rect62"
+         width="8"
+         height="128"
+         x="305"
+         y="144"
+         ry="4" />
+    </g>
+    <g
+       id="ClockFace">
+      <circle
+         style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:0.24511719"
+         id="path1"
+         cx="128"
+         cy="128"
+         r="128" />
+      <g
+         id="g2">
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect1"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect2"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g4"
+         transform="rotate(-30,128,128)">
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect3"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect4"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g6"
+         transform="rotate(-60,128,128)">
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect5"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect6"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g8"
+         transform="rotate(-90,128,128)">
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect7"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect8"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g10"
+         transform="rotate(-120,128,128)">
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect9"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect10"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g12"
+         transform="rotate(-150,128,128)">
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect11"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.85;fill:#ffffff;stroke-width:1.5;stroke-linecap:square"
+           id="rect12"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g14"
+         transform="rotate(6,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect13"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect14"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g16"
+         transform="rotate(12,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect15"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect16"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g18"
+         transform="rotate(18,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect17"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect18"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g20"
+         transform="rotate(24,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect19"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect20"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g22"
+         transform="rotate(36,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect21"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect22"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g24"
+         transform="rotate(42,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect23"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect24"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g26"
+         transform="rotate(48,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect25"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect26"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g28"
+         transform="rotate(54,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect27"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect28"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g30"
+         transform="rotate(66,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect29"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect30"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g32"
+         transform="rotate(72,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect31"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect32"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g34"
+         transform="rotate(78,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect33"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect34"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g36"
+         transform="rotate(84,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect35"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect36"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g38"
+         transform="rotate(96,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect37"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect38"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g40"
+         transform="rotate(102,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect39"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect40"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g42"
+         transform="rotate(108,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect41"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect42"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g44"
+         transform="rotate(114,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect43"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect44"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g46"
+         transform="rotate(126,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect45"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect46"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g48"
+         transform="rotate(132,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect47"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect48"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g50"
+         transform="rotate(138,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect49"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect50"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g52"
+         transform="rotate(144,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect51"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect52"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g54"
+         transform="rotate(156,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect53"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect54"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g56"
+         transform="rotate(162,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect55"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect56"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g58"
+         transform="rotate(168,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect57"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect58"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <g
+         id="g60"
+         transform="rotate(174,128,128)">
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect59"
+           width="4"
+           height="14"
+           x="126"
+           y="11"
+           ry="1.9999996" />
+        <rect
+           style="opacity:0.3;fill:#999999;stroke-width:1.5;stroke-linecap:square;fill-opacity:1"
+           id="rect60"
+           width="4"
+           height="14"
+           x="126"
+           y="231"
+           ry="1.9999996" />
+      </g>
+      <circle
+         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+         id="circle121"
+         cx="128"
+         cy="128"
+         r="3.9999964" />
+    </g>
+    <rect
+       style="opacity:0.4;fill:#00ff00;stroke-width:0.999999;stroke-linecap:square"
+       id="hint-minutehand-rotation-center-offset"
+       width="4"
+       height="4"
+       x="307"
+       y="174" />
+    <rect
+       style="opacity:0.4;fill:#00ff00;stroke-width:0.999999;stroke-linecap:square"
+       id="hint-hourhand-rotation-center-offset"
+       width="4"
+       height="4"
+       x="354"
+       y="174" />
+    <g
+       id="HandCenterScrew">
+      <rect
+         style="opacity:0.44;fill:none;stroke:none;stroke-width:0.999996;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:0.326776"
+         id="rect66"
+         width="16"
+         height="16"
+         x="332"
+         y="80" />
+      <circle
+         style="opacity:0.9;fill:#161616;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:0.326776"
+         id="path66"
+         cx="340"
+         cy="88"
+         r="6" />
+    </g>
+    <g
+       id="SecondHand"
+       transform="translate(97)">
+      <rect
+         style="opacity:0.44;fill:none;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+         id="rect67"
+         width="28"
+         height="160"
+         x="295"
+         y="127.99999" />
+      <rect
+         style="opacity:0.9;fill:#666666;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+         id="rect68"
+         width="4"
+         height="128.00002"
+         x="307"
+         y="144"
+         ry="2" />
+    </g>
+    <rect
+       style="opacity:0.4;fill:#00ff00;stroke-width:0.999999;stroke-linecap:square"
+       id="hint-secondhand-rotation-center-offset"
+       width="4"
+       height="4"
+       x="404"
+       y="174" />
+  </g>
+</svg>
