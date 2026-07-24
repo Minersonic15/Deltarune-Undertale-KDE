@@ -12,3 +12,4 @@ Lowkey im kinda a dumbass so like i forget how i installed the stuff from intern
 - Undertunes
 - Pixelitos icon theme
 * Everything else was either edited by moi or found elsewhere
+* also mb id link to that stuff but idk how maybe later
